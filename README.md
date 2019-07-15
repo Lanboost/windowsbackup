@@ -6,3 +6,4 @@ Some basic python scripts that will backup "minimal" important information from 
 
  - Thunderbird (accounts)
  - Firefox (bookmarks)
+ - Slack (workspaces)
